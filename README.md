@@ -18,3 +18,31 @@ This project was independently developed to explore the challenges of Vertical T
 | **Power** | 4S LiPo Battery, UBEC Voltage Regulation, custom power distribution. |
 | **Simulation & Design** | **Ansys CFD** (Aerodynamic Analysis), **Onshape/Fusion 360** (CAD), **EasyEDA/KiCAD** (PCB Design). |
 | **Payload** | Integrated **FLIR Lepton 3.5** Radiometric Thermal Imaging Sensor. |
+## 🛠️ Key Features
+
+*   **Custom Flight Controller:** Real-time PID control loops written in C++ for stable attitude control.
+*   **Transition Mechanism:** Designed and fabricated a tiltrotor system to smoothly transition between hover and forward flight.
+*   **Ansys CFD Validation:** Aerodynamic profiles were simulated and optimized prior to fabrication.
+*   **Integrated Thermal Payload:** Successfully incorporated a FLIR Lepton thermal camera for potential applications in search & rescue or inspection.
+
+## 🎯 Project Status
+
+**Current Phase:** Flight Testing & PID Tuning
+*   [ ] Stable Hover Achieved
+*   [ ] Successful Transition Sequence
+*   [ ] Fully Autonomous Flight
+*   [] All Subsystems Bench-Tested
+*   [] Custom PCB Fabricated & Populated
+
+## 📸 Media
+
+[Link to a YouTube/Vimeo video showing bench tests, assembly, and flight tests]
+
+![Close-up of the custom PCB](link_to_pcb_image.jpg)
+![CFD Simulation Screenshot](link_to_CFD_image.jpg)
+
+## ✨ Author
+
+**Aarit Dixit** 
+*   Student Researcher focused on aerospace systems and embedded engineering.
+*   [LinkedIn Profile](Your_LinkedIn_Link)
