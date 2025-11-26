@@ -1,4 +1,4 @@
-# Autonomous Tricopter Tiltrotor VTOL UAV
+# 3D-Printed Modular Tricopter Tiltrotor VTOL UAV
 
 A custom-built, transition-capable Unmanned Aerial Vehicle (UAV) featuring a unique tricopter tiltrotor design. This project encompassed the full development stack: aerodynamic simulation, airframe design, custom PCB fabrication, embedded C++ programming, and flight testing.
 
