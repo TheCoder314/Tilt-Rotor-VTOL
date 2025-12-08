@@ -13,15 +13,16 @@ This project was independently developed to explore the challenges of Vertical T
 | System | Components & Technologies |
 | :--- | :--- |
 | **Airframe** | Custom 3D-printed (PLA/CF-Nylon) structure, carbon fiber reinforcement, proprietary tilt mechanism design. |
-| **Avionics** | Custom 2-layer PCB, **Teensy 4.1** Microcontroller, **MPU6050** IMU, **NEO-M8N** GPS Module. |
+| **Avionics** | Custom 4-layer PCB, **Teensy 4.1** Microcontroller, **MPU6050** IMU, **NEO-M8N** GPS Module, **GY-273** Magnometer, **BMP-388** Barometer, Airspeed Sensor |
 | **Software** | C++ (Flight Control Firmware), MATLAB (Transition Simulation), PID Control Loops, OneShot125 Protocol. |
-| **Power** | 4S LiPo Battery, UBEC Voltage Regulation, custom power distribution. |
-| **Simulation & Design** | **Ansys CFD** (Aerodynamic Analysis), **Onshape/Fusion 360** (CAD), **EasyEDA/KiCAD** (PCB Design). |
+| **Power** | 4S LiPo Battery, UBEC Voltage Regulation, PDB Board. |
+| **Simulation & Design** | **Autodesk CFD** (Aerodynamic Analysis), **Onshape/Fusion 360** (CAD), **KiCAD** (PCB Design). |
 | **Payload** | Integrated **FLIR Lepton 3.5** Radiometric Thermal Imaging Sensor. |
 ## 🛠️ Key Features
 
 *   **Custom Flight Controller:** Real-time PID control loops written in C++ for stable attitude control.
-*   **Transition Mechanism:** Designed and fabricated a tiltrotor system to smoothly transition between hover and forward flight.
+*   **Novel Airframe Design:** A modular, fully 3D-printed tiltrotor tricopter employing unified servo-actuated mechanisms to enable a mechanically simple and aerodynamically stable transition between hover and forward flight.
+*   **Transition Mechanism:** Designed and fabricated a novel tiltrotor system to smoothly transition between hover and forward flight.
 *   **Ansys CFD Validation:** Aerodynamic profiles were simulated and optimized prior to fabrication.
 *   **Integrated Thermal Payload:** Successfully incorporated a FLIR Lepton thermal camera for potential applications in search & rescue or inspection.
 
