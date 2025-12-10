@@ -2,11 +2,12 @@
 
 A custom-built, transition-capable Unmanned Aerial Vehicle (UAV) featuring a unique tricopter tiltrotor design. This project encompassed the full development stack: aerodynamic simulation, airframe design, custom PCB fabrication, embedded C++ programming, and flight testing.
 
-![Image or GIF of the VTOL](link_to_a_hero_image_or_gif.gif)
+<img width="1056" height="546" alt="image" src="https://github.com/user-attachments/assets/8ea3ebc6-3ad2-4d5e-8b21-1947d32edd70" />
+
 
 ## 🚀 Project Overview
 
-This project was independently developed to explore the challenges of Vertical Take-Off and Landing (VTOL) aircraft, specifically the control dynamics of transition flight between hover and forward flight. The goal was to design, build, and program a robust UAV system from the ground up.
+This project was independently developed to explore the challenges of Vertical Take-Off and Landing (VTOL) aircraft, specifically the control dynamics of transition flight between hover and forward flight. The goal was to design, build, and program a robust low-cost, modular UAV system from the ground up.
 
 ## ⚙️ Technical Specifications
 
@@ -36,14 +37,5 @@ This project was independently developed to explore the challenges of Vertical T
 *   [] Custom PCB Fabricated & Populated
 
 ## 📸 Media
+<img width="1063" height="676" alt="image" src="https://github.com/user-attachments/assets/2da4c5cc-d567-4d72-b708-6d02e8497cbd" />
 
-[Link to a YouTube/Vimeo video showing bench tests, assembly, and flight tests]
-
-![Close-up of the custom PCB](link_to_pcb_image.jpg)
-![CFD Simulation Screenshot](link_to_CFD_image.jpg)
-
-## ✨ Author
-
-**Aarit Dixit** 
-*   Student Researcher focused on aerospace systems and embedded engineering.
-*   [LinkedIn Profile](Your_LinkedIn_Link)
