@@ -38,4 +38,5 @@ This project was independently developed to explore the challenges of Vertical T
 
 ## 📸 Media
 <img width="1063" height="676" alt="image" src="https://github.com/user-attachments/assets/2da4c5cc-d567-4d72-b708-6d02e8497cbd" />
+<img width="1047" height="695" alt="image" src="https://github.com/user-attachments/assets/9c463e09-205c-4402-aa32-636b42b397c1" />
 
